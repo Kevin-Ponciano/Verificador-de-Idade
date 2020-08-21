@@ -1,0 +1,25 @@
+body {
+    background: rgb(73, 181, 214);
+    font: normal 15pt arial;
+}
+ header {
+     color: white; /* cor do titulo */
+     text-align: center; /*centralização*/
+      }
+
+ section {
+     background: rgb(188, 236, 240); /*cor de fundo do bloco*/
+     border-radius: 10px; /*borda*/
+     padding: 15px; /*tamanho*/
+     width: 500px; /*largura*/
+     margin: auto;/*centralizar*/
+     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.349); /*sombra da caixa*/
+
+
+ }
+ footer {
+     color: white;
+     text-align: center;
+     font-style: italic;
+    
+ }
